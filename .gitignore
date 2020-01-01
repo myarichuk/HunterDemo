@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/external
+/out/
+/Folder.DotSettings.user
+/PrintImageSizeUtil/out/
